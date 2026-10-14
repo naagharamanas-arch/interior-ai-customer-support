@@ -1,0 +1,69 @@
+
+{
+  "company_name": "Blue Whale Interior Solutions",
+  "website": "https://bluewhaleinteriorsolutions.com/",
+  "business_description": "Residential and commercial interior design solutions and interior products.",
+  "website_status": "Needs Company Verification",
+"company_profile_status": "Partially Verified",
+"verification_note": "Website details may be outdated. Confirm current company information before using it for customer commitments.",
+  "contact": {
+    "phone": "+91 77081 06888",
+    "email": "contact@BWIS.com",
+    "address": "2nd St, Stanes Rd, KNP Puram, Odakkadu, Tiruppur, Tamil Nadu 641602"
+  },
+  "business_categories": {
+    "HOME_INTERIOR": {
+      "enabled": true,
+      "services": [
+        "Residential Interior Design",
+        "False Ceiling",
+        "Modular Kitchen",
+        "TV Unit",
+        "Pooja Unit"
+      ]
+    },
+    "COMMERCIAL_INTERIOR": {
+      "enabled": true,
+      "services": [
+        "Commercial Interiors",
+        "Industrial Interiors",
+        "Ceiling Solutions",
+        "Partition Solutions"
+      ]
+    },
+    "UPVC_PVC_INTERIOR": {
+      "enabled": true,
+      "products": [
+        "UPVC Interior Products",
+        "PVC Interior Products"
+      ],
+      "details_verified": false
+    },
+    "B2B_PRODUCTS": {
+      "enabled": true,
+      "products": [
+        "Aluminium Solar Sections",
+        "Baffle Ceiling Sections",
+        "Aluminium Patta",
+        "Modular Kitchen Products"
+      ],
+      "details_verified": false
+    }
+  },
+  "sales_rules": {
+    "never_invent_prices": true,
+    "never_invent_stock": true,
+    "never_invent_specifications": true,
+    "confirm_unverified_details_with_company": true,
+    "ask_for_quantity_and_specifications_for_bulk_orders": true
+  },
+  "human_handover": {
+    "enabled": true,
+    "reasons": [
+      "Price confirmation",
+      "Bulk order quotation",
+      "Unverified product specifications",
+      "Customer complaint"
+    ]
+  }
+}
